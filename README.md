@@ -1,4 +1,4 @@
-# CSS Intro/Demo
+# CSS Demo
 
 Open your Gitbash and follow the steps below to complete the challenge.
 
