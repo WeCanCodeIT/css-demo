@@ -15,13 +15,16 @@
 
 
 /* 
- Change the background color of the submit button when active.
- Check teacher's notes for resources on this part of the challenge. */
+ Change the background color of the submit button when active. 
+ hint: https://developer.mozilla.org/en-US/docs/Web/CSS/:active
+*/
 
 
 
-/* Give the text field a blue border upon focus.
-   Check teacher's notes for resources on this part of the challenge. */
+/*
+ Give the text field a blue border upon focus.
+ hint: https://developer.mozilla.org/en-US/docs/Web/CSS/:focus
+*/
 
 
 
