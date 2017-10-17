@@ -1,24 +1,20 @@
-/* ====================================================== 
-   Practice CSS Selectors 
+/* ======================================================
+   Practice CSS Selectors
 ========================================================= */
 
 /* Change the color of all list items inside an unordered list */
 
 
-
 /* Remove the text decoration from navigation links, and change their color when hovered */
-
 
 
 /* Create visited and hover styles for all links inside 'main' */
 
 
-
-/* 
- Change the background color of the submit button when active. 
+/*
+ Change the background color of the submit button when active.
  hint: https://developer.mozilla.org/en-US/docs/Web/CSS/:active
 */
-
 
 
 /*
@@ -27,16 +23,10 @@
 */
 
 
-
 /* Give the 'span' tag in the footer a meaningful class name and reduce its font size */
-
 
 
 /* Give the 'img' tag in the header an ID and set its width to 190px */
 
 
-
 /* Target all heading tags on the page and set their font family to 'Bree Serif', serif */
-
-
-
