@@ -26,6 +26,9 @@ footer {
 	text-align: center;
 	padding: 2rem 0 1.5rem;
 }
+figure {
+	margin: 0;
+}
 h1,
 h2 {
 	color: var(--blue);
