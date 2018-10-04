@@ -1,10 +1,12 @@
 # CSS Demo
 
-Open your Gitbash and follow the steps below to complete the challenge.
+## Installation Instructions
 
-```
-cd ~/wcci/code
-git clone https://github.com/WeCanCodeIT/css-demo.git
-```
+1. Clone this repository to `wcci/code`
+1. `cd` into `css-demo`
+1. `gradle eclipse`
+1. Pending a Successful Build, import this project into Eclipse
 
-Open `styles.css` and complete challenges in the comments.
+## Exercise Instructions
+
+Open `static/css/styles.css` and follow the instructions inside of the comments. Only edit the code in `styles.css`. DO NOT edit the code inside of `default-styles.css`.
